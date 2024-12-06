@@ -1,6 +1,8 @@
 # parrot-update
 to resolve this problem in parrot update apply this:-
-1- sudo nano /etc/apt/source.list
+
+```sudo nano /etc/apt/source.list```
+
 add this link in it and comment other 
 ```deb http://mirrors.mit.edu/parrot/ rolling main contrib non-free```
 
